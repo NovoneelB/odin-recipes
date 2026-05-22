@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+I am building a recipe website that showcases my skills in HTML. The website will include recipes used in Quebec city, Canada. The homepage will describe the city and its food culture. The homepage will link to additional pages with recipes of the specific dishes. 
